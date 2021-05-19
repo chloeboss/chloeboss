@@ -9,9 +9,6 @@ chloeboss/chloeboss is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-# Cucumber BDD Demo
-[![Build Status](https://dev.azure.com/chlozeng/MyFirstProject/_apis/build/status/chloeboss.cucumber-bdd-demo?branchName=master)](https://dev.azure.com/chlozeng/MyFirstProject/_build/latest?definitionId=11&branchName=master)
-
 #### Author Contact Info
 ```
 Chloe Zeng
@@ -23,6 +20,8 @@ And I have create branch of demo project to show usage of tools
 
 ### Repo list
 should contain repo links, build status and issue status
+eg : 
+[![Build Status](https://dev.azure.com/chlozeng/MyFirstProject/_apis/build/status/chloeboss.cucumber-bdd-demo?branchName=master)](https://dev.azure.com/chlozeng/MyFirstProject/_build/latest?definitionId=11&branchName=master)
 
 
 ### goal
