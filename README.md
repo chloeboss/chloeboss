@@ -67,19 +67,19 @@ There are multiple options to test Api eg: Postman, Swagger. In this Demo, I am 
 
 #### Api
 * Validate Response using RestSharp
-* Response Status
-* Response Headers
-* Response Body
+ * Response Status
+ * Response Headers
+ * Response Body
 * Send and verify HTTP request
-* Post/Get/Delete/Put
+ * Post/Get/Delete/Put
 * Execute request with Powerful Generic Deserialization (more explanations please see below)
 * Parallel Execution using Context dependency Injection(see videos)
 * Reporting
-* specflow-living doc
+ * specflow-living doc
 * Test Assertion by Specflow.assist CompareToInstance
 * Include Authenticators
-* JWT
-* Basic Auth
+ * JWT
+ * Basic Auth
 
 ---
 ### Cypress
