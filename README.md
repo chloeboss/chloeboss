@@ -3,12 +3,6 @@ chloeboss/chloeboss is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-#### Author Contact Info
-```
- 👋 Hi, I’m Chloe Zeng
- 📫 chloezeng310@gmail.com
-    https://www.linkedin.com/in/chloe-zeng/
-```
 
 And I have created few projects to show usage of different automation testing tools.
 
